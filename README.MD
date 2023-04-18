@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mehmet Emin Avcıl</h1>
 <h3 align="center">A passionate Front-end Web Developer from Turkey</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mehmeteminavcil&label=Profile%20views&color=0e75b6&style=flat" alt="mehmeteminavcil" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehmeteminavcil&label=Profile%20views&color=0e75b6&style=flat" alt="mehmeteminavcil" /> </p> -->
 
 <p align="left"> <a href="https://twitter.com/mehmeteminavcil" target="blank"><img src="https://img.shields.io/twitter/follow/mehmeteminavcil?logo=twitter&style=for-the-badge" alt="mehmeteminavcil" /></a> </p>
 
