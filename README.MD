@@ -36,8 +36,8 @@
 
 
 
-|  <img align="right" style="height:10rem" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehmeteminavcil&show_icons=true&locale=en&theme=radical&layout=compact&card_width=421" alt="mehmeteminavcil" /> | ![](https://media4.giphy.com/media/AcfTF7tyikWyroP0x7/200w.webp?cid=ecf05e4760oei909jk0jxfeylbnt2kab4zlpbxaep5imj5p1&rid=200w.webp&ct=g) |
+|  <img align="center" style="height:10rem" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehmeteminavcil&show_icons=true&locale=en&theme=radical&layout=compact&card_width=421" alt="mehmeteminavcil" /> | [![Spotify](https://novatorem-k7nt-kfwrk5jki-mehmeteminavcil.vercel.app/api/spotify)](https://open.spotify.com/user/31rydmr4mzlk7yyvzkxqifjbwdsq) |
 |---|---|
-|<img align="right" style="height:10rem;" src="https://github-readme-stats.vercel.app/api?username=mehmeteminavcil&title_color=FE428E&bg_color=141321&card_width=500px&text_color=fff&show_icons=true&theme=buefy" >| <img align="right" style="height:10rem;" src="https://github-readme-streak-stats.herokuapp.com/?user=mehmeteminavcil&theme=radical&show_icons=true&border=e4e2e2&card_width=500px" />  |
+|<img align="center" style="height:10rem;" src="https://github-readme-stats.vercel.app/api?username=mehmeteminavcil&title_color=FE428E&bg_color=141321&card_width=500px&text_color=fff&show_icons=true&theme=buefy" >| <img align="center" style="height:10rem;" src="https://github-readme-streak-stats.herokuapp.com/?user=mehmeteminavcil&theme=radical&show_icons=true&border=e4e2e2&card_width=580px" />  |
 
 
