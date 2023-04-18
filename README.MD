@@ -36,7 +36,7 @@
    
 
          
-<img align="right" style="height:10rem;margin-bottom:10px;margin-top:32px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehmeteminavcil&show_icons=true&locale=en&theme=radical&layout=compact&card_width=421" alt="mehmeteminavcil" />
+<img align="left" style="height:10rem;margin-bottom:10px;margin-top:32px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehmeteminavcil&show_icons=true&locale=en&theme=radical&layout=compact&card_width=421" alt="mehmeteminavcil" />
 
 <div style="height: 180;1px solid red;">
     <img align="right" style="height:10rem;margin-bottom:10px;" src="https://github-readme-stats.vercel.app/api?username=mehmeteminavcil&title_color=FE428E&bg_color=141321&card_width=500px&text_color=fff&show_icons=true&theme=buefy" >
@@ -44,7 +44,7 @@
 
 
 
-<img align="right" style="height:10rem;margin-bottom:10px;" src="https://github-readme-streak-stats.herokuapp.com/?user=mehmeteminavcil&theme=radical&show_icons=true&border=e4e2e2&card_width=500px" />
+<img align="center" style="height:10rem;margin-bottom:10px;" src="https://github-readme-streak-stats.herokuapp.com/?user=mehmeteminavcil&theme=radical&show_icons=true&border=e4e2e2&card_width=500px" />
       
    
 
