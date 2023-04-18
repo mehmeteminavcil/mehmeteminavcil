@@ -1,14 +1,6 @@
 
 
-
-
-<h2> / about me /</h2>
-  
-- ⭐ currently working on web-development
-- 👾 Ask me about web development , react , html, css, js
-- 📫 You can reach me **mehmeteminavcill@gmail.com**
-  
-<h2> / current skills / </h2>
+<div>
   
 - <h4> languages & tools </h4>
   <img src = "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt = "js" />
@@ -33,23 +25,19 @@
   <img src = "https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt = "illustrator" />
   <img src = "https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt = "figma" />
  
-   
+ </div>   
 
          
-<img align="left" style="height:10rem;margin-bottom:10px;margin-top:32px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehmeteminavcil&show_icons=true&locale=en&theme=radical&layout=compact&card_width=421" alt="mehmeteminavcil" />
-
-<div style="height: 180;1px solid red;">
-    <img align="right" style="height:10rem;margin-bottom:10px;" src="https://github-readme-stats.vercel.app/api?username=mehmeteminavcil&title_color=FE428E&bg_color=141321&card_width=500px&text_color=fff&show_icons=true&theme=buefy" >
-    </div>
 
 
-<br>
-<br>
-<br>
 
 
-<img align="center" style="height:10rem;margin-bottom:10px;" src="https://github-readme-streak-stats.herokuapp.com/?user=mehmeteminavcil&theme=radical&show_icons=true&border=e4e2e2&card_width=500px" />
-      
-   
+
+
+
+
+|  <img align="right" style="height:10rem" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehmeteminavcil&show_icons=true&locale=en&theme=radical&layout=compact&card_width=421" alt="mehmeteminavcil" /> | ![](https://media4.giphy.com/media/AcfTF7tyikWyroP0x7/200w.webp?cid=ecf05e4760oei909jk0jxfeylbnt2kab4zlpbxaep5imj5p1&rid=200w.webp&ct=g) |
+|---|---|
+|<img align="right" style="height:10rem;" src="https://github-readme-stats.vercel.app/api?username=mehmeteminavcil&title_color=FE428E&bg_color=141321&card_width=500px&text_color=fff&show_icons=true&theme=buefy" >| <img align="right" style="height:10rem;" src="https://github-readme-streak-stats.herokuapp.com/?user=mehmeteminavcil&theme=radical&show_icons=true&border=e4e2e2&card_width=500px" />  |
 
 
