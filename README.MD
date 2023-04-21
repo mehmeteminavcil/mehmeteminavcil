@@ -35,9 +35,8 @@
 
 
 
-
-|  <img align="center" style="height:10rem" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehmeteminavcil&show_icons=true&locale=en&theme=radical&layout=compact&card_width=421&hide_border=true" alt="mehmeteminavcil" /> | [![Spotify](https://novatorem-k7nt-kfwrk5jki-mehmeteminavcil.vercel.app/api/spotify/?background_color=0D1117&border_color=0D1117)](https://open.spotify.com/user/31rydmr4mzlk7yyvzkxqifjbwdsq) |
+|  <img align="center" style="height:10rem" src="https://github-readme-stats-mehmeteminavcil.vercel.app/api/top-langs?username=mehmeteminavcil&show_icons=true&locale=en&theme=radical&layout=compact&card_width=421&hide_border=true" alt="mehmeteminavcil" /> | [![Spotify](https://novatorem-k7nt-kfwrk5jki-mehmeteminavcil.vercel.app/api/spotify/?background_color=0D1117&border_color=0D1117)](https://open.spotify.com/user/31rydmr4mzlk7yyvzkxqifjbwdsq) |
 |---|---|
-|<img align="center" style="height:10rem;" src="https://github-readme-stats.vercel.app/api?username=mehmeteminavcil&title_color=FE428E&card_width=500px&text_color=fff&show_icons=true&theme=radical&hide_border=true" >| <img align="center" style="height:10rem;" src="https://github-readme-streak-stats.herokuapp.com/?user=mehmeteminavcil&theme=radical&bg_color=00000000&hide_border=true&show_icons=true&card_width=580px" />  |
+|<img align="center" style="height:10rem;" src="https://github-readme-stats-mehmeteminavcil.vercel.app/api?username=mehmeteminavcil&title_color=FE428E&card_width=500px&text_color=fff&show_icons=true&theme=radical&hide_border=true" >| <img align="center" style="height:10rem;" src="https://github-readme-streak-stats.herokuapp.com/?user=mehmeteminavcil&theme=radical&bg_color=00000000&hide_border=true&show_icons=true&card_width=580px" />  |
 
 
